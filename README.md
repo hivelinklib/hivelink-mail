@@ -32,7 +32,7 @@ Easy to add to your current application, no need for complicated integration ste
 Install this library on your application
 
 ```sh
-composer require --dev simplepleb/laravel-email-templates
+composer require hivelink/mail
 ```
 
 Automatically copy files and folders to the same structure within you Laravel application.
